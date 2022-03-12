@@ -44,6 +44,6 @@ bg = donus.text
 
 ve = json.loads(bg)
 
-for i in ve.items()::
+for i in ve.items():
 
-    print(i
+    print(i)
